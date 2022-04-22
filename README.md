@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @knowinlyunknown
-- 👀 I’m interested in Web Developement and  Competitive Programming
+- 👋 Hi, I’m Mohammad Borhan Udddin
+- 👀 I’m interested in Web Developement.
 
 <!---
 knowinlyunknown/knowinlyunknown is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
